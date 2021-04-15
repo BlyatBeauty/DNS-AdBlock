@@ -5,6 +5,7 @@
 # Why are you even reading this???
 # If you see this, follow my twitter (@blyatbeauty) and say ayy, lmao
 #
+adclick.g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 r1.sn-4g5e6ne6.googlevideo.com
