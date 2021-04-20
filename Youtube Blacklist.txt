@@ -8,6 +8,7 @@
 adclick.g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
+pagead2.googlesyndication.com
 r1.sn-4g5e6ne6.googlevideo.com
 r1.sn-4g5e6nez.googlevideo.com
 r1.sn-4g5e6nl6.googlevideo.com
