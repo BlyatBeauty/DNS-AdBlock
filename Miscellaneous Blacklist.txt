@@ -5,9 +5,9 @@
 # Why are you even reading this???
 # If you see this though, follow my twitter (@blyatbeauty) and say ayy, lmao
 #
-d.socdm.com
 aax-us-east.amazon-adsystem.com
-app-measurement.com
 ads.mopub.com
+app-measurement.com
+d.socdm.com
 i.socdm.com
 pixon.ads-pixiv.net
