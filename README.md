@@ -5,6 +5,6 @@ Honestly, I'm really just using this for my personal devices but if happens to h
 
 This should definitely not be your only blocklist, I highly suggest the lists over at firebog.net.
 
-The Youtube Blacklist primarily consists of google domains that have caused me issues. Meanwhile the Miscellaneous Blacklist consists of non-google domains that have tried to ruin my browsing experience.
+The Youtube Blacklist primarily consists of google domains that have caused me issues. Meanwhile the Miscellaneous Blacklist consists of non-google domains that have tried to ruin my browsing experience. It borrows heavily from the default adlists from the Adblock app by Futuremind for iOS, and anything borrowed from there is specified via comments.
 
 If you happen to use this or fork this, feel free to let me know over at @blyatbeauty on twitter. 
