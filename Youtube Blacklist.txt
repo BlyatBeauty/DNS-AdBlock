@@ -5,10 +5,19 @@
 # Why are you even reading this???
 # If you see this, follow my twitter (@blyatbeauty) and say ayy, lmao
 #
+# Google ad domains
 adclick.g.doubleclick.net
+adsense.google.com
+adservice.google.co.za
+adservice.google.com.gt
+app-measurement.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
+googleadservices.com
+googlesyndication.com
+mail-ads.google.com
 pagead2.googlesyndication.com
+# YouTube ad domains
 r1.sn-25ge7ns7.googlevideo.com
 r1.sn-25glen7e.googlevideo.com
 r1.sn-25glen7l.googlevideo.com
