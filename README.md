@@ -13,7 +13,7 @@ The Miscellaneous Blacklist consists of non-google domains that have tried to ru
 
 The Recommended Blacklists and More file provides links to good blacklists, and are my recommendations for setting up a fresh pi-hole install. Why my repo is your first exposure to DNS-based adblocking is beyond me, but I tried to make the instructions as simple as can be. Unlike the Youtube Blacklist and Miscellaneous Blacklist, you will actually have to open and read it to use it. Tragic, I know.
 
-                      --- Recommended Blacklists and More ---
+#                     --- Recommended Blacklists and More ---
 # firebog.net
 An excellent place to start, especially on a fresh pi-hole install.
 Simply copy all the links that have a green tick (✔) into the Adlist group management tab on your pihole
