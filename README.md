@@ -15,7 +15,7 @@ The Recommended Blacklists and More file provides links to good blacklists, and 
 
 #                     --- Recommended Blacklists and More ---
 # firebog.net
-An excellent place to start, especially on a fresh pi-hole install.
+firebog.net is excellent place to start, especially on a fresh pi-hole install.
 Simply copy all the links that have a green tick (✔) into the Adlist group management tab on your pihole
 In case you didn't know, you can paste multiple adlist links at once into the Adlist group management, which will make your life much easier.
 
@@ -24,23 +24,24 @@ RegEx allows pihole to not just rely on your blocklists but also to automaticall
 I don't do coding or anything on a regular basis, if you want a better explanation, find it on youtube or something
 These are the basic RegEx you should have in a fresh pi-hole install
 # You will have to copy these in one-by-one however
-^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
-^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
-^(.+[_.-])?telemetry[_.-]
-^adim(age|g)s?[0-9]*[_.-]
-^adtrack(er|ing)?[0-9]*[_.-]
-^advert(s|is(ing|ements?))?[0-9]*[_.-]
-^aff(iliat(es?|ion))?[_.-]
-^analytics?[_.-]
-^banners?[_.-]
-^beacons?[0-9]*[_.-]
-^count(ers?)?[0-9]*[_.-]
-^mads\.
-^pixels?[-.]
-^stat(s|istics)?[0-9]*[_.-]
+    ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+    ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+    ^(.+[_.-])?telemetry[_.-]
+    ^adim(age|g)s?[0-9]*[_.-]
+    ^adtrack(er|ing)?[0-9]*[_.-]
+    ^advert(s|is(ing|ements?))?[0-9]*[_.-]
+    ^aff(iliat(es?|ion))?[_.-]
+    ^analytics?[_.-]
+    ^banners?[_.-]
+    ^beacons?[0-9]*[_.-]
+    ^count(ers?)?[0-9]*[_.-]
+    ^mads\.
+    ^pixels?[-.]
+    ^stat(s|istics)?[0-9]*[_.-]
 
 # Pegasus Spyware Domains
 AmnestyTech recently came out with a list of domains used by the Pegasus spyware that targets iOS devices.
 Even the most recent versions of iOS are able to be targetted
 The link to the domain list is provided on the line below, simply paste it into your Adlist group management tab like you would any other adlist.
+
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
