@@ -47,7 +47,7 @@ These are considered the basic RegEx you should have in a fresh pi-hole install.
 ### Pegasus Spyware Domains
 AmnestyTech recently came out with a list of domains used by the Pegasus spyware that targets iOS devices.
 
-**Even the most recent versions of iOS are able to be targetted!**
+**Even the most recent versions of iOS are able to be targeted!**
 
 The link to the domain list is provided on the line below, simply paste it into your Adlist group management tab like you would any other adlist.
 
