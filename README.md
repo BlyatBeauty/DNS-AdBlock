@@ -4,7 +4,7 @@ This is a primarily YouTube-based blacklist for DNS-based adblockers such as pi-
 Honestly, I'm really just using this for my personal devices but if happens to help you out, then that's pretty cool!
 If you happen to use this or fork this, feel free to let me know over at @blyatbeauty on twitter. 
 
-This should definitely not be your only blocklist, and if this is your first exposure to DNS-based adblocking for soem reason, my recommendations for good blocklists and regex filters will be placed at the bottom of this readme.
+This should definitely not be your only blocklist, and if this is your first exposure to DNS-based adblocking for soem reason, my recommendations for good blocklists and regex filters will be placed at the bottom of this readme. If you have no idea what this is but you're interested, start [here](https://www.youtube.com/watch?v=KBXTnrD_Zs4)
 
 ## Contents of this repo:
 
