@@ -6,20 +6,20 @@ If you happen to use this or fork this, feel free to let me know over at @blyatb
 
 This should definitely not be your only blocklist, and if this is your first exposure to DNS-based adblocking for soem reason, my recommendations for good blocklists and regex filters will be placed at the bottom of this readme.
 
-# Contents of this repo:
+## Contents of this repo:
 
 The Youtube Blacklist primarily consists of google domains that have caused me issues. Unfortunately, due to the nature of YouTube's content delivery setup, the domains I blocked are not all of YouTube's ad domains. 
 The Miscellaneous Blacklist consists of non-google domains that have tried to ruin my browsing experience. It borrows heavily from the default adlists from the Adblock app by Futuremind for iOS, and anything borrowed from there is specified via comments.
 
-The Recommended Blacklists and More file provides links to good blacklists, and are my recommendations for setting up a fresh pi-hole install. Why my repo is your first exposure to DNS-based adblocking is beyond me, but I tried to make the instructions as simple as can be. Unlike the Youtube Blacklist and Miscellaneous Blacklist, you will actually have to open and read it to use it. Tragic, I know.
 
-#                     --- Recommended Blacklists and More ---
-# firebog.net
+
+## Recommended Blacklists and More
+### firebog.net
 [An excellent place to start, especially on a fresh pi-hole install.](firebog.net)
 Simply copy all the links that have a green tick (✔) into the Adlist group management tab on your pihole
 In case you didn't know, you can paste multiple adlist links at once into the Adlist group management, which will make your life much easier.
 
-# Regular Expressions (RegEx)
+### Regular Expressions (RegEx)
 RegEx allows pihole to not just rely on your blocklists but also to automatically block websites as long as they meet certain criteria.
 I don't do coding or anything on a regular basis so if you want a better explanation, find it on youtube or something.
 These are considered the basic RegEx you should have in a fresh pi-hole install.
@@ -41,7 +41,7 @@ These are considered the basic RegEx you should have in a fresh pi-hole install.
     ^pixels?[-.]
     ^stat(s|istics)?[0-9]*[_.-]
 
-# Pegasus Spyware Domains
+### Pegasus Spyware Domains
 AmnestyTech recently came out with a list of domains used by the Pegasus spyware that targets iOS devices.
 
 **Even the most recent versions of iOS are able to be targetted!**
