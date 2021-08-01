@@ -18,7 +18,8 @@ Simply copy the direct links to the file into your adblocker's adlists and you'r
 ## Recommended Blacklists and More
 ### firebog.net
 [An excellent place to start, especially on a fresh pi-hole install.](firebog.net)
-Simply copy all the links that have a green tick (✔) into the Adlist group management tab on your pihole
+Simply copy all the links that have a green tick (✔) into the Adlist group management tab on your pihole.
+
 In case you didn't know, you can paste multiple adlist links at once into the Adlist group management, which will make your life much easier.
 
 ### Regular Expressions (RegEx)
