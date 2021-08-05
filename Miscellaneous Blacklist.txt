@@ -14,6 +14,7 @@ pixon.ads-pixiv.net
 wd.adcolony.com
 ssp-events.chartboost.com
 a.applvn.com
+ads.samsung.com
 
 # This part of my adlist is taken from the default adlists from the Adblock app by Futuremind for iOS
 # It has been formatted to work with Pihole
