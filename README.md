@@ -8,7 +8,7 @@ This should definitely not be your only blocklist, and if this is your first exp
 
 ## Contents of this repo:
 
-The Youtube Blacklist primarily consists of google domains that have caused me issues. Unfortunately, due to the nature of YouTube's content delivery setup, the domains I blocked are not all of YouTube's ad domains. 
+The Youtube Blacklist primarily consists of google ad domains that have caused me issues. Unfortunately, due to the nature of YouTube's content delivery setup, blocking YouTube's ad domains is a hopeless endeavour. They keep making new domains, and blocking a specific domain can block actual YouTube content as well as ads, eventually giving me more trouble than it's worth.
 The Miscellaneous Blacklist consists of non-google domains that have tried to ruin my browsing experience. It borrows heavily from the default adlists from the Adblock app by Futuremind for iOS, and anything borrowed from there is specified via comments.
 
 Simply copy the direct links to the file into your adblocker's adlists and you're good to go!
