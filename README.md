@@ -10,7 +10,7 @@ This should definitely not be your only blocklist, and if this is your first exp
 
 The Youtube Blacklist primarily consists of google ad domains that have caused me issues. Unfortunately, due to the nature of YouTube's content delivery setup, blocking YouTube's ad domains is a hopeless endeavour. They keep making new domains, and blocking a specific domain can block actual YouTube content as well as ads, eventually giving me more trouble than it's worth.
 
-If you wanna block YouTube ads on your mobile device (iOS, Android), I suggest you look into sideloading. I'll eventually make a separate repo on sideloading YouTube Vanced if you're on Android or a copy of the Better Cercube IPA for iOS users. In the meantime, just google it or something lmao.
+If you wanna block YouTube ads on your mobile device (iOS, Android), I suggest you look into sideloading a modified YouTube app. I made a separate article here on GitHub detailing the process with step-by-step instructions: you can read it [here](https://github.com/BlyatBeauty/Sideloading-YouTube/tree/main).
 
 The Miscellaneous Blacklist consists of non-google domains that have tried to ruin my browsing experience. It borrows heavily from the default adlists from the Adblock app by Futuremind for iOS, and anything borrowed from there is specified via comments.
 
