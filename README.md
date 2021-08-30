@@ -16,6 +16,8 @@ The Miscellaneous Blacklist consists of non-google domains that have tried to ru
 
 Simply copy the direct links to the file into your adblocker's adlists and you're good to go!
 
+The Whitelist is just that, a list of domains I have allowed through my pi-hole. Some of these domains were either blocked by an overexcited regex filter, while some are simply necessary to maintain functionality of certain web services. Copy these to the whitelist section of your pi-hole much like you'd copy an adlist link into your gravity list. And yes, you can copy and paste the entire list in one go.
+
 
 
 ## Recommended Blacklists and More
