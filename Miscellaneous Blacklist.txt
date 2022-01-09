@@ -26,7 +26,6 @@ ads.samsung.com
 a8.com
 a8.net
 intowow.applefeed.com.tw
-adex*.bmediaasia.com
 cb.baidu.com
 cbjs.baidu.com
 cpro.baidu.com
@@ -50,7 +49,6 @@ spotad.cn
 tanx.com
 vpon.com
 partnerads.ysm.yahoo.com
-ad*.on.cc
 promotion.aliyun.com
 
 # Global Adservers
