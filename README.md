@@ -27,6 +27,9 @@ Simply copy all the links that have a green tick (✔) into the Adlist group man
 
 In case you didn't know, you can paste multiple adlist links at once into the Adlist group management, which will make your life much easier.
 
+### The Blocklist Project
+[The Blocklist Project,](https://blocklistproject.github.io/Lists/) mush like firebog.net has a bunch of good adlists, preformatted to work with pretty much every format of DNS adblocker. Can't reccomend it enough.
+
 ### Regular Expressions (RegEx)
 RegEx allows pihole to not just rely on your blocklists but also to automatically block websites as long as they meet certain criteria.
 I don't do coding or anything on a regular basis so if you want a better explanation, find it on youtube or something.
