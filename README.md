@@ -6,17 +6,21 @@ If you happen to use this or fork this, feel free to let me know over at [@blyat
 
 This should definitely not be your only blocklist, and if this is your first exposure to DNS-based adblocking then my recommendations for good blocklists and regex filters will be placed at the bottom of this readme. If you have no idea what this is but you're interested, start [here](https://www.youtube.com/watch?v=KBXTnrD_Zs4).
 
+This should be obvious but I have no connection to the Pi-Hole project, nor am I really an expert in this. I take no responsibility for your setup, this repo primarily exists for me to be able to quickly set up a pi-hole with my preferred settings.
+
 ## Contents of this repo:
 
-The Youtube Blacklist primarily consists of google ad domains that have caused me issues. Unfortunately, due to the nature of YouTube's content delivery setup, blocking YouTube's ad domains is a hopeless endeavour. They keep making new domains, and blocking a specific domain can block actual YouTube content as well as ads, eventually giving me more trouble than it's worth.
+The Youtube Blacklist primarily consists of google ad domains that have caused me issues. Unfortunately, due to the nature of YouTube's content delivery setup, blocking YouTube's ad domains is a hopeless endeavor. They keep making new domains, and blocking a specific domain can block actual YouTube content as well as ads, eventually giving me more trouble than it's worth.
 
-If you wanna block YouTube ads on your mobile device (iOS, Android), I suggest you look into sideloading a modified YouTube app. I made a separate article here on GitHub detailing the process with step-by-step instructions: you can read it [here](https://github.com/BlyatBeauty/Sideloading-YouTube/tree/main).
+If you want to block YouTube ads on your mobile device (iOS, Android), I suggest you look into sideloading a modified or tweaked YouTube app. I made a separate article here on GitHub detailing the process with step-by-step instructions: you can read it [here](https://github.com/BlyatBeauty/Sideloading-YouTube/tree/main).
 
 The Miscellaneous Blacklist consists of non-google domains that have tried to ruin my browsing experience. It borrows heavily from the default adlists from the Adblock app by Futuremind for iOS, and anything borrowed from there is specified via comments.
 
 Simply copy the direct links to the file into your adblocker's adlists and you're good to go!
 
-The Whitelist is just that, a list of domains I have allowed through my pi-hole. Some of these domains were either blocked by an overexcited regex filter, while some are simply necessary to maintain functionality of certain web services. Copy these to the whitelist section of your pi-hole much like you'd copy an adlist link into your gravity list. And yes, you can copy and paste the entire list in one go.
+The Whitelist is just that, a list of domains I have allowed through my pi-hole. Some of these domains were either blocked by an overexcited regex filter, while some are simply necessary to maintain functionality of certain web services. Copy these to the whitelist section of your pi-hole much like you'd copy an adlist link into your gravity list. And yes, you can copy and paste the entire list in one go. I've seen some debate in forums over some of the domains I've included in my whitelist but my priority is to keep as much functionality of the web as possible while minimizing as many trackers and ads. If you disagree with a certain entry in the whitelist, feel free not to include it.
+
+Similarly enough, Adlists is just all the adlists I use in my setup. Simply copy paste them into the Adlists section of your Pi-Hole install.
 
 
 
