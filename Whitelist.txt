@@ -187,6 +187,7 @@ p.typekit.net
 picz.in.th	
 ping.chartbeat.net	
 pings.conviva.com	
+pi-ue1-lba1.pardot.com
 placehold.it	
 placeholdit.imgix.net	
 players.brightcove.net	
