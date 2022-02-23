@@ -9,6 +9,7 @@ akamaihd.net
 akamaitechnologies.com	
 akamaized.net	
 amazonaws.com	
+amd.com
 analytics.twitter.com	
 android.clients.google.com	
 anti-ad.net	
