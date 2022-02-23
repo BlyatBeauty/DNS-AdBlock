@@ -94,7 +94,8 @@ ecn.dev.virtualearth.net
 edge.api.brightcove.com	
 edge-mqtt.facebook.com	
 eds.xboxlive.com	
-eec.crunchyroll.com	
+eec.crunchyroll.com
+explore.amd.com
 firebaselogging-pa.googleapis.com	
 fonts.googleapis.com	
 fonts.gstatic.com	
