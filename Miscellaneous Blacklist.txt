@@ -5,16 +5,32 @@
 # Why are you even reading this???
 # If you see this though, follow my twitter (@blyatbeauty) and say ayy, lmao
 #
-aax-us-east.amazon-adsystem.com
-ads.mopub.com
-app-measurement.com
-d.socdm.com
-i.socdm.com
-pixon.ads-pixiv.net
-wd.adcolony.com
-ssp-events.chartboost.com
 a.applvn.com
+aax-us-east.amazon-adsystem.com
+adc3-launch.adcolony.com
+admin.appnext.com
+ads.aerserv.com
+ads.avocarrot.com
+ads.mopub.com
 ads.samsung.com
+ads30.adcolony.com
+adserver.unityads.unity3d.com
+app.appsflyer.com
+app-measurement.com
+auction.unityads.unity3d.com
+config.unityads.unity3d.com
+d.applvn.com
+d.socdm.com
+events3alt.adcolony.com
+i.socdm.com
+live.chartboost.com
+pixon.ads-pixiv.net
+rt.applovin.com
+rt.applvn.com
+ssp-events.chartboost.com
+v2.chartboost.com
+wd.adcolony.com
+webview.unityads.unity3d.com
 
 # This part of my adlist is taken from the default adlists from the Adblock app by Futuremind for iOS
 # It has been formatted to work with Pihole
