@@ -41,6 +41,7 @@ beacons.ai
 beacons.page
 bit.ly
 blocklist.addons.mozilla.org
+boards.4chan.org
 brightcove.net
 c.s-microsoft.com
 cdn.ampproject.org
@@ -258,6 +259,7 @@ versioncheck.addons.mozilla.org
 videos.vidible.tv
 video-stats.l.google.com
 vidtech.cbsinteractive.com
+weather-analytics-events.apple.com
 web.facebook.com
 widget-cdn.rpxnow.com
 wiki.mozilla.org
