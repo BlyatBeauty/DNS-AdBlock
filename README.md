@@ -20,7 +20,7 @@ Simply copy the direct links to the file into your adblocker's adlists and you'r
 
 The Whitelist is just that, a list of domains I have allowed through my pi-hole. Some of these domains were either blocked by an overexcited regex filter, while some are simply necessary to maintain functionality of certain web services. Copy these to the whitelist section of your pi-hole much like you'd copy an adlist link into your gravity list. And yes, you can copy and paste the entire list in one go. I've seen some debate in forums over some of the domains I've included in my whitelist but my priority is to keep as much functionality of the web as possible while minimizing as many trackers and ads. If you disagree with a certain entry in the whitelist, feel free not to include it.
 
-Similarly enough, Adlists is just all the adlists I use in my setup. Simply copy paste them into the Adlists section of your Pi-Hole install.
+Similarly enough, Adlists and Barebones Adlists are just all the adlists I use in my setup. Simply copy paste them into the Adlists section of your Pi-Hole install. Barebones is the more relaxed blocklist, only blocking malware and to a lesser extent, Windows Telemetry, and should be used on clients that need a more relaxed blocklist.
 
 
 
