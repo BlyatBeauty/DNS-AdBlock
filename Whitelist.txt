@@ -89,6 +89,7 @@ dns.msftncsi.com
 download.sonarr.tv
 drift.com
 driftt.com
+drive.google.com
 dynupdate.no-ip.com
 e.reddit.com
 ecn.dev.virtualearth.net
