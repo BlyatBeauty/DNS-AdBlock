@@ -95,3 +95,17 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
+http://phishing.mailscanner.info/phishing.bad.sites.conf
+https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+https://www.technoy.de/lists/malware2.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
+https://blocklistproject.github.io/Lists/malware.txt
+https://blocklistproject.github.io/Lists/phishing.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.piHole.txt
