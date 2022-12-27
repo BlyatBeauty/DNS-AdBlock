@@ -12,7 +12,7 @@ This should be obvious but I have no connection to the Pi-Hole project, nor am I
 
 The Youtube Blacklist primarily consists of google ad domains that have caused me issues. Unfortunately, due to the nature of YouTube's content delivery setup, blocking YouTube's ad domains is a hopeless endeavor. They keep making new domains, and blocking a specific domain can block actual YouTube content as well as ads, eventually giving me more trouble than it's worth.
 
-If you want to block YouTube ads on your mobile device (iOS, Android), I suggest you look into sideloading a modified or tweaked YouTube app. I made a separate article here on GitHub detailing the process with step-by-step instructions: you can read it [here](https://github.com/BlyatBeauty/Sideloading-YouTube/tree/main).
+If you want to block YouTube ads on your mobile device (iOS, Android), I suggest you look into sideloading a modified or tweaked YouTube app.
 
 The Miscellaneous Blacklist consists of non-google domains that have tried to ruin my browsing experience. It borrows heavily from the default adlists from the Adblock app by Futuremind for iOS, and anything borrowed from there is specified via comments.
 
